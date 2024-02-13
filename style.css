@@ -1,0 +1,31 @@
+@font-face {
+    font-family: stylishfont;
+    src: url(font/Sixtyfour/Sixtyfour-Regular-VariableFont_BLED\,SCAN.ttf);
+}
+@font-face {
+    font-family: newstyle;
+    src: url(font/Lato/Lato-BlackItalic.ttf);
+}
+
+div{font-family:stylishfont;font-weight: 600;color: rgb(255, 255, 0);background-color: rgb(110, 0, 212);text-align: center;
+}
+h1{font-family: newstyle;background-color: rgb(192, 129, 46);color: rgb(68, 214, 112);text-align: center;font-weight: 300;
+}
+@font-face {
+    font-family: bestfont;
+    src: url(font/Oswald/Oswald-VariableFont_wght.ttf);
+}
+h2{font-family: bestfont;background-color: rgb(18, 112, 112);color: rgb(151, 168, 0);text-align: center;font-weight: 900;
+}
+@font-face {
+    font-family: uniquefont;
+    src: url(font/Quicksand/Quicksand-VariableFont_wght.ttf);
+}
+h3{font-family: uniquefont;background-color: rgb(226, 86, 4);color: rgb(106, 218, 62);text-align: center;font-weight: 100;
+}
+@font-face {
+    font-family: difffont;
+    src: url(font/Protest_Revolution/ProtestRevolution-Regular.ttf);
+}
+span{font-family: difffont;font-size: xx-large;background-color: rgb(172, 17, 94);color: rgb(160, 122, 196);align-items: center;font-weight: 400;
+}
